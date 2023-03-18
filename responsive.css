@@ -1,0 +1,221 @@
+@media screen and (max-width:1180px) {
+    .container{
+        width: 100%;
+    }
+    /* .txt{
+        background-color: green;
+        color: white;
+    } */
+}
+
+@media screen and (max-width:980px) {
+    .txt{
+        background-color: purple;
+        color: white;
+    }
+    .col-md-1{
+        width: 8.333%; /* 100/12= result*1 */
+        float: left;
+        padding: 15px;
+    }
+    
+    .col-md-2{
+        width: 16.666%; /* 100/12= result*2 */
+        float: left;
+        padding: 15px;
+    }
+    .col-md-3{
+        width: 25%; /* 100/12= result*3 */
+        float: left;
+        padding: 15px;
+    }
+    .col-md-4{
+        width: 33.333%; /* 100/12= result*4 */
+        float: left;
+        padding: 15px;
+    }
+    .col-md-5{
+        width: 41.666%; /* 100/12= result*4 */
+        float: left;
+        padding: 15px;
+    }
+    .col-md-6{
+        width: 50%; /* 100/12= result*6 */
+        float: left;
+        padding: 15px;
+    }
+    .col-md-7{
+        width: 58.333%; /* 100/12= result*7 */
+        float: left;
+        padding: 15px;
+    }
+    .col-md-8{
+        width: 66.666%; /* 100/12= result*8 */
+        float: left;
+        padding: 15px;
+    }
+    .col-md-9{
+        width: 75%; /* 100/12= result*9 */
+        float: left;
+        padding: 15px;
+    }
+    .col-md-10{
+        width: 83.333%; /* 100/12= result*10 */
+        float: left;
+        padding: 15px;
+    }
+    .col-md-11{
+        width: 91.666%; /* 100/12= result*11 */
+        float: left;
+        padding: 15px;
+    }
+    .col-md-12{
+        width:100%; /* 100/12= result*12 */
+        float: left;
+        padding: 15px;
+    }
+}
+
+@media screen and (max-width:768px) {
+    .brand{
+        display: block;
+        margin: auto;
+    }
+    #navigation li{
+        width: 100%;
+        border-top: 1px solid #eee;
+    }
+    .txt{
+        background-color: darkblue;
+        color: white;
+    }
+    .col-sm-1{
+        width: 8.333%; /* 100/12= result*1 */
+        float: left;
+        padding: 15px;
+    }
+    
+    .col-sm-2{
+        width: 16.666%; /* 100/12= result*2 */
+        float: left;
+        padding: 15px;
+    }
+    .col-sm-3{
+        width: 25%; /* 100/12= result*3 */
+        float: left;
+        padding: 15px;
+    }
+    .col-sm-4{
+        width: 33.333%; /* 100/12= result*4 */
+        float: left;
+        padding: 15px;
+    }
+    .col-sm-5{
+        width: 41.666%; /* 100/12= result*4 */
+        float: left;
+        padding: 15px;
+    }
+    .col-sm-6{
+        width: 50%; /* 100/12= result*6 */
+        float: left;
+        padding: 15px;
+    }
+    .col-sm-7{
+        width: 58.333%; /* 100/12= result*7 */
+        float: left;
+        padding: 15px;
+    }
+    .col-sm-8{
+        width: 66.666%; /* 100/12= result*8 */
+        float: left;
+        padding: 15px;
+    }
+    .col-sm-9{
+        width: 75%; /* 100/12= result*9 */
+        float: left;
+        padding: 15px;
+    }
+    .col-sm-10{
+        width: 83.333%; /* 100/12= result*10 */
+        float: left;
+        padding: 15px;
+    }
+    .col-sm-11{
+        width: 91.666%; /* 100/12= result*11 */
+        float: left;
+        padding: 15px;
+    }
+    .col-sm-12{
+        width:100%; /* 100/12= result*12 */
+        float: left;
+        padding: 15px;
+    }
+}
+
+@media screen and (max-width:500px) {
+    .txt{
+        background-color: blueviolet;
+        color: white;
+    }
+    .col-xs-1{
+        width: 8.333%; /* 100/12= result*1 */
+        float: left;
+        padding: 15px;
+    }
+    
+    .col-xs-2{
+        width: 16.666%; /* 100/12= result*2 */
+        float: left;
+        padding: 15px;
+    }
+    .col-xs-3{
+        width: 25%; /* 100/12= result*3 */
+        float: left;
+        padding: 15px;
+    }
+    .col-xs-4{
+        width: 33.333%; /* 100/12= result*4 */
+        float: left;
+        padding: 15px;
+    }
+    .col-xs-5{
+        width: 41.666%; /* 100/12= result*4 */
+        float: left;
+        padding: 15px;
+    }
+    .col-xs-6{
+        width: 50%; /* 100/12= result*6 */
+        float: left;
+        padding: 15px;
+    }
+    .col-xs-7{
+        width: 58.333%; /* 100/12= result*7 */
+        float: left;
+        padding: 15px;
+    }
+    .col-xs-8{
+        width: 66.666%; /* 100/12= result*8 */
+        float: left;
+        padding: 15px;
+    }
+    .col-xs-9{
+        width: 75%; /* 100/12= result*9 */
+        float: left;
+        padding: 15px;
+    }
+    .col-xs-10{
+        width: 83.333%; /* 100/12= result*10 */
+        float: left;
+        padding: 15px;
+    }
+    .col-xs-11{
+        width: 91.666%; /* 100/12= result*11 */
+        float: left;
+        padding: 15px;
+    }
+    .col-xs-12{
+        width:100%; /* 100/12= result*12 */
+        float: left;
+        padding: 15px;
+    }
+}
